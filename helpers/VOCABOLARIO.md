@@ -28,6 +28,7 @@
 - **Web Browsers e Developer Tools**: Conoscenza dei principali browser web e delle relative strumenti di sviluppo per il debug e il testing.
 - **GraphQL**: Linguaggio di query per le API, offrendo una maggiore flessibilità rispetto alle richieste tradizionali basate su REST.
 - **SEO (Search Engine Optimization)**: Implementazione di strategie per migliorare la visibilità dei contenuti web sui motori di ricerca, migliorando il posizionamento organico nelle ricerche.
+- **Version Control System (VCS)**: Strumenti come Git che consentono di gestire le versioni del codice sorgente, facilitando la collaborazione tra sviluppatori.
 
 # Database
 
@@ -108,6 +109,7 @@
 - **Identity and Access Management (IAM)**: Gestione delle identità e dei privilegi di accesso per controllare chi ha accesso a quali risorse.
 - **Scalabilità automatica**:indica la capacità di adattare dinamicamente le risorse in risposta alla domanda, garantendo efficienza ed elasticità.
 - **Serverless Computing**: Un modello di cloud computing in cui il provider gestisce dinamicamente le risorse, addebitando solo per l'esecuzione effettiva di codice (es. "AWS Lambda").
+- **Hybrid Cloud**: Combinazione di servizi cloud pubblici e privati, consentendo il trasferimento di dati e applicazioni tra le due infrastrutture.
 
 # Hardware Virtualization
 
@@ -117,4 +119,5 @@
 - **AI tools**: Saper usare e capire come usare le AI per scrivere,migliorare e capire il codice.
 - **Hypervisor**: Software che consente la creazione e la gestione di macchine virtuali (VM) su un server fisico, consentendo l'esecuzione di più sistemi operativi su una singola macchina.
 - **Host OS (Host Operating System)**: Sistema operativo che esegue direttamente sull'hardware fisico e ospita l'ipervisore.
-- **Hypervisor**: Un software che consente l'esecuzione di macchine virtuali su un sistema host, gestendo l'accesso alle risorse hardware.
+- **Paravirtualizzazione**: Una tecnica di virtualizzazione in cui il sistema operativo guest è consapevole della sua natura virtualizzata e collabora con l'host per migliorare le prestazioni e l'efficienza.
+- **Virtualizzazione Bare Metal**: Si riferisce alla virtualizzazione eseguita direttamente sull'hardware senza dover passare attraverso un sistema operativo ospite.
