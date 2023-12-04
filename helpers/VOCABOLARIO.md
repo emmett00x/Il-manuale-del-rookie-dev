@@ -11,10 +11,45 @@
 - **Array**: Una struttura dati che contiene una collezione di elementi dello stesso tipo, organizzati in un insieme ordinato.
 - **Fasi della programmazione**: I passi con cui si sviluppa un programma. Le prime fasi sono strettamente legate alla logica di quello che si va a creare e del suo funzionamento, mentre le ultime sono orientate verso lo specifico linguaggio di programmazione che si intende utilizzare.
 - **Variabili**: Contenitori dati flessibili che cambiano valore nel programma e consentono la manipolazione dinamica delle informazioni.
-- **Metodo Agile**: Una metodologia di sviluppo del software che promuove la collaborazione e il cambiamento flessibile (es. "Scrum", "Kanban").
+- ## Metodo Agile: Un Approccio Dinamico allo Sviluppo Software
+
+**Definizione Completa:**
+Il *Metodo Agile* è una metodologia di sviluppo del software che abbraccia i principi della flessibilità, collaborazione e risposta rapida ai cambiamenti. Fondato su valori espressi nel **Manifesto Agile**, questo approccio sfida le tradizionali pratiche di sviluppo software, privilegiando la risposta alle esigenze mutevoli del cliente e la creazione di software funzionante in brevi iterazioni.
+
+#### Caratteristiche Chiave:
+1. **Collaborazione e Comunicazione:**
+   - Priorità alla comunicazione diretta e continua con il cliente e tra i membri del team.
+   - Coinvolgimento attivo del cliente durante tutto il processo di sviluppo.
+
+2. **Flessibilità e Adattabilità:**
+   - Risposta rapida ai cambiamenti nei requisiti del progetto.
+   - Capacità di adattarsi a nuove informazioni e feedback in ogni fase dello sviluppo.
+
+3. **Consegne Incrementali:**
+   - Sviluppo del software in piccoli incrementi funzionali.
+   - Consegnare valore al cliente in modo continuo e regolare.
+
+4. **Principi del Manifesto Agile:**
+   - Individui e interazioni più che processi e strumenti.
+   - Software funzionante più che documentazione esaustiva.
+   - Collaborazione con il cliente più che negoziazione di contratti.
+   - Risposta ai cambiamenti più che seguizione di un piano rigido.
+
+5. **Frameworks Agili Popolari:**
+   - **Scrum:** Strutturato in sprints di breve durata, enfatizza la collaborazione quotidiana e la trasparenza.
+   - **Kanban:** Metodologia visuale che mira a migliorare la gestione del lavoro senza sovraccaricare il team.
+
+#### Benefici del Metodo Agile:
+   - **Miglior Adattamento ai Cambiamenti:** Risposta pronta alle evoluzioni dei requisiti.
+   - **Coinvolgimento del Cliente:** Feedback continuo per allineare il prodotto alle reali esigenze.
+   - **Riduzione dei Rischi:** Consegne frequenti riducono il rischio di errori e problemi a lungo termine.
+   - **Team Motivato e Collaborativo:** Favorisce un ambiente di lavoro dinamico e collaborativo.
+
+*Il Metodo Agile è un approccio dinamico e moderno che si è dimostrato efficace in contesti in cui la flessibilità e la collaborazione sono essenziali per il successo del progetto.*
+
 
 # Sviluppo Web
-
+Per  **Sviluppo Web** è il processo di creazione di applicazioni o siti web per l'utilizzo su Internet o su una rete privata. Coinvolge l'uso di linguaggi di markup come *HTML*, fogli di stile come *CSS* e linguaggi di scripting come *JavaScript* per creare pagine web interattive e dinamiche.
 - **HTML/CSS/JavaScript**: Tecnologie di base per lo sviluppo web; HTML per la struttura, CSS per lo stile, e JavaScript per la funzionalità.
 - **Front-End**: Parte dell'applicazione web con cui l'utente interagisce direttamente.
 - **Back-End**: Parte dell'applicazione responsabile per la gestione dei dati, logica del server, e autenticazione.
@@ -30,6 +65,7 @@
 - **SEO (Search Engine Optimization)**: Implementazione di strategie per migliorare la visibilità dei contenuti web sui motori di ricerca, migliorando il posizionamento organico nelle ricerche.
 
 # Database
+Un **Database** è un sistema organizzato per la raccolta, la gestione e l'aggiornamento di dati. Utilizza strutture dati specifiche e un linguaggio di interrogazione per consentire agli utenti di archiviare, organizzare e recuperare informazioni in modo efficiente.
 
 - **SQL (Structured Query Language)**: Linguaggio standard per gestire i database relazionali.
 - **NoSQL**: Database non relazionali, utilizzati per la grande scalabilità e la flessibilità nell'organizzazione dei dati.
@@ -101,6 +137,7 @@
 - **Load Balancing**: Distribuzione del traffico tra più server per migliorare la capacità di gestione delle richieste e garantire alta disponibilità.
 
 # Cloud Computing
+Il **Cloud Computing** è un modello di erogazione di servizi informatici che offre accesso a risorse come server, archiviazione, database, reti e software tramite Internet ("il cloud"). Questo modello consente di accedere e utilizzare risorse informatiche in modo flessibile e scalabile, in genere pagando solo per le risorse effettivamente utilizzate.
 
 - **IAAS, PAAS, SAAS**: Diversi livelli di servizi cloud (Infrastruttura, Piattaforma, Software come Servizio).
 - **Provider Cloud**: Servizi come AWS, Azure, Google Cloud che offrono risorse di computing su internet.
@@ -110,6 +147,7 @@
 - **Serverless Computing**: Un modello di cloud computing in cui il provider gestisce dinamicamente le risorse, addebitando solo per l'esecuzione effettiva di codice (es. "AWS Lambda").
 
 # Hardware Virtualization
+La **Virtualizzazione dell'hardware** è la creazione di macchine virtuali (VM) o ambienti di sistema operativo virtuali su un singolo server fisico. Questa tecnologia consente a un singolo hardware di ospitare più ambienti operativi separati, migliorando l'efficienza, la flessibilità e la gestione delle risorse hardware. Esistono diversi approcci alla virtualizzazione dell'hardware, come la virtualizzazione completa, la paravirtualizzazione e la virtualizzazione a livello di sistema operativo.
 
 - **Full Virtualization**: tutto dall'Host viene "Virtualizzato", usualmente risultando in performance peggiori.
 - **Paravirtualization**: Host e Guest comunicano tra di loro attraverso APIs specifiche, risultando in performance migliori. L'host dovrà comunque offrire supporto kernel.
